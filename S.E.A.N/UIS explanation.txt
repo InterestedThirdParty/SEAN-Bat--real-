@@ -1,0 +1,2 @@
+UIS stands for User Input Scenarios, these files are referenced throughout the program to record inputs the user makes. 
+However if you access the actual prgram code you can change what it is referencing/using. 
